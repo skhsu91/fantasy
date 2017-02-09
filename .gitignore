@@ -22,3 +22,11 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+.glide
+glide.lock
+coverage.out
+coverage-all.out
+server
+
+# vendor

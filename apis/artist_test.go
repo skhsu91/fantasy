@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/qiangxue/golang-restful-starter-kit/daos"
-	"github.com/qiangxue/golang-restful-starter-kit/services"
-	"github.com/qiangxue/golang-restful-starter-kit/testdata"
+	"github.com/skhsu91/fantasy/daos"
+	"github.com/skhsu91/fantasy/services"
+	"github.com/skhsu91/fantasy/testdata"
 )
 
 func TestArtist(t *testing.T) {

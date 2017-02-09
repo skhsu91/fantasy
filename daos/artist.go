@@ -1,8 +1,8 @@
 package daos
 
 import (
-	"github.com/qiangxue/golang-restful-starter-kit/app"
-	"github.com/qiangxue/golang-restful-starter-kit/models"
+	"github.com/skhsu91/fantasy/app"
+	"github.com/skhsu91/fantasy/models"
 )
 
 // ArtistDAO persists artist data in database

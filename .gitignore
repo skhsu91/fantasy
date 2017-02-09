@@ -29,6 +29,6 @@ coverage.out
 coverage-all.out
 server
 
-# vendor
+vendor
 
 .idea

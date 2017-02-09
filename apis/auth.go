@@ -6,9 +6,9 @@ import (
 	"github.com/dgrijalva/jwt-go"
 	"github.com/go-ozzo/ozzo-routing"
 	"github.com/go-ozzo/ozzo-routing/auth"
-	"github.com/qiangxue/golang-restful-starter-kit/app"
-	"github.com/qiangxue/golang-restful-starter-kit/errors"
-	"github.com/qiangxue/golang-restful-starter-kit/models"
+	"github.com/skhsu91/fantasy/app"
+	"github.com/skhsu91/fantasy/errors"
+	"github.com/skhsu91/fantasy/models"
 )
 
 type Credential struct {

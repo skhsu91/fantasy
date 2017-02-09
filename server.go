@@ -11,11 +11,11 @@ import (
 	"github.com/go-ozzo/ozzo-routing/content"
 	"github.com/go-ozzo/ozzo-routing/cors"
 	_ "github.com/lib/pq"
-	"github.com/qiangxue/golang-restful-starter-kit/apis"
-	"github.com/qiangxue/golang-restful-starter-kit/app"
-	"github.com/qiangxue/golang-restful-starter-kit/daos"
-	"github.com/qiangxue/golang-restful-starter-kit/errors"
-	"github.com/qiangxue/golang-restful-starter-kit/services"
+	"github.com/skhsu91/fantasy/apis"
+	"github.com/skhsu91/fantasy/app"
+	"github.com/skhsu91/fantasy/daos"
+	"github.com/skhsu91/fantasy/errors"
+	"github.com/skhsu91/fantasy/services"
 )
 
 func main() {
